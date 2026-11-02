@@ -1,0 +1,90 @@
+[
+  {
+    "id": "exemple-sucre",
+    "title": "Polarimétrie et dosage du saccharose",
+    "description": "Principe de la polarisation et calcul de la pureté d'un jus sucré.",
+    "category": "controle-du-sucre",
+    "date": "2026-10-28",
+    "size": 656,
+    "pages": 1,
+    "file": "lessons/exemple-sucre.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-materiel",
+    "title": "Stérilisation et préparation de la verrerie",
+    "description": "Nettoyage, conditionnement et stérilisation du matériel de laboratoire.",
+    "category": "preparation-du-materiel",
+    "date": "2026-10-20",
+    "size": 663,
+    "pages": 1,
+    "file": "lessons/exemple-materiel.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-microbio-alim",
+    "title": "Flore d'altération des denrées",
+    "description": "Principaux micro-organismes d'altération et de contamination.",
+    "category": "microbiologie-alimentaire",
+    "date": "2026-10-14",
+    "size": 650,
+    "pages": 1,
+    "file": "lessons/exemple-microbio-alim.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-analyse-micro",
+    "title": "Dénombrement sur milieu gélosé",
+    "description": "Dilutions décimales, ensemencement et lecture des boîtes.",
+    "category": "analyse-microbiologique",
+    "date": "2026-10-09",
+    "size": 650,
+    "pages": 1,
+    "file": "lessons/exemple-analyse-micro.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-physico",
+    "title": "pH, acidité titrable et densité",
+    "description": "Mesures physico-chimiques de base sur un échantillon alimentaire.",
+    "category": "analyse-physico-chimique",
+    "date": "2026-09-30",
+    "size": 651,
+    "pages": 1,
+    "file": "lessons/exemple-physico.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-dosage",
+    "title": "Dosage des protéines par la méthode de Kjeldahl",
+    "description": "Minéralisation, distillation et titrage de l'azote.",
+    "category": "dosage-des-constituants",
+    "date": "2026-09-22",
+    "size": 662,
+    "pages": 1,
+    "file": "lessons/exemple-dosage.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-cereales",
+    "title": "Humidité et cendres des céréales",
+    "description": "Détermination de l'humidité et du taux de cendres d'une farine.",
+    "category": "controle-des-cereales",
+    "date": "2026-09-15",
+    "size": 652,
+    "pages": 1,
+    "file": "lessons/exemple-cereales.pdf",
+    "sample": true
+  },
+  {
+    "id": "exemple-cereales-2",
+    "title": "Qualité boulangère des farines",
+    "description": "Gluten, force boulangère et indice de chute.",
+    "category": "controle-des-cereales",
+    "date": "2026-09-05",
+    "size": 650,
+    "pages": 1,
+    "file": "lessons/exemple-cereales-2.pdf",
+    "sample": true
+  }
+]
